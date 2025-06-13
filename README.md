@@ -1,6 +1,6 @@
-# Stima Sacco Debt Management System - Refactored
+# Stima Sacco Debt Management System - Demo
 
-A comprehensive debt management system for Stima Sacco with improved architecture, maintainability, and scalability.
+A comprehensive demo for a debt management system for Stima Sacco 
 
 ## 🏗️ Architecture Overview
 
